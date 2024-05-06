@@ -1,0 +1,37 @@
+{
+  "address": "ABCEDCMH2IQXMU37WR7SJH4WXXUGC2TB35WVMQRH3S5TOZE3VQRZEFJE5E",
+  "amount": 131435953,
+  "amount-without-pending-rewards": 131435953,
+  "apps-local-state": [],
+  "apps-total-extra-pages": 27,
+  "apps-total-schema": {
+    "num-byte-slice": 245,
+    "num-uint": 671
+  },
+  "assets": [
+    {
+      "amount": 0,
+      "asset-id": 31566704,
+      "is-frozen": false
+    },
+    {
+      "amount": 1,
+      "asset-id": 226265212,
+      "is-frozen": false
+    }
+  ],
+  "auth-addr": "SIGNQJRPOLCX3ED2E3BG5BH3ORH4UUISXOY7XVUU3FMEB76OJDBLA2TV7I",
+  "created-apps": [],
+  "created-assets": [],
+  "min-balance": 125373500,
+  "participation": {},
+  "pending-rewards": 0,
+  "reward-base": 218288,
+  "rewards": 63,
+  "round": 38347528,
+  "status": "Online",
+  "total-apps-opted-in": 8,
+  "total-assets-opted-in": 877,
+  "total-created-apps": 27,
+  "total-created-assets": 0
+}
